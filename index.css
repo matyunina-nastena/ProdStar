@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+#buttonContainer {
+justify-content: flex-start;
+padding-top: 20px;
+}
+h1{
+    color: blueviolet;
+}
+img {
+    height: 400px;
+    width: 350px;
+}
+#buttonImg {
+    margin-right: 260px;
+}
